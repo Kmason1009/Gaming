@@ -85,4 +85,102 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Get Better at Gaming | 144hz_god</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f0f0f;
+      color: #fff;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      color: #00ffcc;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h2 {
+      color: #00ffcc;
+      margin-top: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #00ffcc;
+      text-decoration: underline;
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: 2rem;
+      color: #00ffcc;
+      text-decoration: none;
+      border: 1px solid #00ffcc;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    .back-link:hover {
+      background-color: #00bfa6;
+      color: #000;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      color: #888;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Level Up Your Game</h1>
+    <p>Tips for gaming, streaming, and blogging by 144hz_god</p>
+  </header>
+
+  <div class="container">
+    <h2>🎮 Get Better at Gaming</h2>
+    <ul>
+      <li>Practice aim trainers (like Aim Lab or KovaaK's)</li>
+      <li>Watch high-level gameplay and analyze decisions</li>
+      <li>Focus on your weak spots (crosshair placement, positioning, reaction time)</li>
+      <li>Take breaks — your brain learns during rest!</li>
+    </ul>
+
+    <h2>📡 Start Streaming (Beginner Setup)</h2>
+    <ul>
+      <li>Use free software like <a href="https://obsproject.com/" target="_blank">OBS Studio</a></li>
+      <li>Start with a decent mic (USB mics like Blue Snowball or Fifine)</li>
+      <li>Use Twitch, YouTube, or Kick — whatever fits your vibe</li>
+      <li>Be consistent! Pick a schedule and interact with chat</li>
+    </ul>
+
+    <h2>📝 Start a Gaming Blog</h2>
+    <ul>
+      <li>Write game reviews, patch notes breakdowns, or how-to guides</li>
+      <li>Use free platforms like Medium, Blogger, or WordPress</li>
+      <li>Share your blog on your social media and stream to grow it</li>
+      <li>Eventually, you can monetize with ads, sponsorships, or merch</li>
+    </ul>
+
+    <a class="back-link" href="index.html">← Back to Home</a>
+  </div>
+
+  <footer>
+    © 2025 144hz_god | Keep grinding, stay sharp.
+  </footer>
+</body>
+</html>
 
